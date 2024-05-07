@@ -37,7 +37,7 @@ function createGrid(num)    {
             const divc = document.createElement("div");
             divc.style.width = len;
             divc.style.height = (window.innerWidth/num).toString() + "px";
-            divc.style.border = '0';
+            divc.style.border = '0px';
             // divc.textContent = "red";
             divc.style.flex = 1;
             divc.style.margin = '0';
