@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    background-color: darkseagreen;
+    /* border: 5px solid salmon; */
+}
+
+#squares{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: aquamarine;
+    padding: 5px;
+    border-color: beige;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
